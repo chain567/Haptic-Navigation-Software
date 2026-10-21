@@ -1,0 +1,6 @@
+# Copy to local.properties (ignored by Git) and replace locally.
+# Android Studio normally writes sdk.dir automatically.
+# sdk.dir=/absolute/path/to/your/Android/sdk
+MAPS_API_KEY=YOUR_GOOGLE_MAPS_API_KEY
+BLUETOOTH_LEFT_DEVICE_ADDRESS=00:00:00:00:00:00
+BLUETOOTH_RIGHT_DEVICE_ADDRESS=00:00:00:00:00:00
